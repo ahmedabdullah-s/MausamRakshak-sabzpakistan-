@@ -1,0 +1,6 @@
+{
+  "name": "MausamRakshak",
+  "description": "Climate resilience weather warnings, Sabz Pakistan advisory, and Gemini AI farming/water conservation guidance for Pakistani communities.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
